@@ -19,12 +19,12 @@
 
 ## Índice
 <!-- Não é obrigatório, mas é útil para projetos longos e facilita a navegação/organização. -->
-- [Descrição](#-descricao)
-- [Instrução de Instalação](#-instrução-de-instalação)
-- [Instrução de uso](#-instrução-de-uso)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
-- [Autores](#-autores)
+- [Descrição](#descrição)
+- [Instrução de Instalação](#instrução-de-instalação)
+- [Instrução de uso](#instrução-de-uso)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
+- [Autores](#autores)
 
 
 
@@ -54,9 +54,6 @@ dotnet build
 
 ```
 
-## Instrução de uso
-
-<!-- Instruções sobre usabilidades específicas e exemplos de como usar o projeto. -->
 
 ## Contribuição
 
