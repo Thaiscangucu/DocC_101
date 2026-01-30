@@ -31,7 +31,7 @@
 ## Descrição 
 <!-- Uma breve descrição do que o projeto faz, com o que foi construído e por que o app foi desenvolvido. -->
 
-Este projeto foi realizado para demonstrar como realizar documentação do código em DocC e o README de um repositório, assim como suas boas práticas.
+Este projeto visa demonstrar como realizar a documentação do código em DocC e criar um README para um repositório, além de apresentar boas práticas para padronizar e explicar o processo.  Ele serve como um guia valioso para desenvolvedores. 
 
 ## Instrução de Instalação
 <!-- Instruções sobre como instalar e configurar o projeto. Pode conter uma sessão de pré requisitos. O exemplo abaixo é ilustrativo -->
