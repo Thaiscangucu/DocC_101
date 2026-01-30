@@ -1,6 +1,12 @@
-<h1 align="center" style="font-weight: bold;">Project name 💻</h1>
+<h1 align="center" style="font-weight: bold;">Nome do Projeto 💻</h1>
+
+<!--  <img src="https://github.com/user-attachments/assets/bb0f2d27-da5b-403e-8f22-7d7e9e2fd7b3" alt="xcode logo" align="right" height="60"   /> -->
+
+
 
 <div align="center">
+
+<!-- Exemplos de Badge -->
   
   ![Badge Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
   ![Badge iOS](https://img.shields.io/badge/Apple-iOS-purple?style=flat&logo=apple&logoColor=white)
@@ -12,6 +18,7 @@
 
 
 ## Índice
+<!-- Não é obrigatório, mas é útil para projetos longos e facilita a navegação/organização. -->
 - [Descrição](#-descricao)
 - [Instrução de Instalação](#-instrução-de-instalação)
 - [Instrução de uso](#-instrução-de-uso)
@@ -23,12 +30,11 @@
 
 ## Descrição 
 <!-- Uma breve descrição do que o projeto faz, com o que foi construído e por que o app foi desenvolvido. -->
+
 Este projeto foi realizado para demonstrar como realizar documentação do código em DocC e o README de um repositório, assim como suas boas práticas.
 
 ## Instrução de Instalação
 <!-- Instruções sobre como instalar e configurar o projeto. Pode conter uma sessão de pré requisitos. O exemplo abaixo é ilustrativo -->
-
-
 Para instalar os packages, siga as instruções a baixo:
 
 ```shell
@@ -38,7 +44,7 @@ Para instalar os packages, siga as instruções a baixo:
 # Visit https://git-scm.com to download and install console Git if not already installed
 
 # Clone the repository
-git clone https://github.com/Abblix/Oidc.Server.git
+git clone https://github.com/Thaiscangucu/DocC_101
 
 # Navigate to the project directory
 cd cd DocC_101
@@ -58,12 +64,12 @@ dotnet build
 
 Fizemos todos os esforços para implementar os principais aspectos do protocolo OpenID da melhor forma possível. No entanto, a jornada de desenvolvimento não termina aqui, e sua contribuição é crucial para nossa melhoria contínua.
 
-> [!IMPORTANTE]
-> Whether you have feedback on features, have encountered any bugs, or have suggestions for enhancements, we're eager to hear from you. Your insights help us make the Abblix OIDC Server library more robust and user-friendly.
+> [!IMPORTANT]
+> Se você tiver comentários sobre funcionalidades, encontrar algum bug ou tiver sugestões de melhorias, ficaremos felizes em ouvir sua opinião. Seus comentários nos ajudam a aperfeiçar `nomeProjeto`.
 
-Please feel free to contribute by [submitting an issue](https://github.com/Abblix/Oidc.Server/issues) or [joining the discussions](https://github.com/orgs/Abblix/discussions). Each contribution helps us grow and improve.
+Sinta-se à vontade para contribuir [abrindo uma issue](https://github.com/Thaiscangucu/DocC_101) ou [participando das discussões](https://github.com/Thaiscangucu/DocC_101/discussions). Cada contribuição nos ajuda a crescer e melhorar.
 
-We appreciate your support and look forward to making our product even better with your help!
+Agradecemos seu apoio e esperamos tornar nosso produto ainda melhor com a sua ajuda!
 
 
 ## Licença
