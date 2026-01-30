@@ -1,4 +1,15 @@
-# Título
+<h1 align="center" style="font-weight: bold;">Project name 💻</h1>
+
+<div align="center">
+  
+  ![Badge Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+  ![Badge iOS](https://img.shields.io/badge/Apple-iOS-purple?style=flat&logo=apple&logoColor=white)
+  ![Badge valorant](https://img.shields.io/badge/Valorant-FA4454?style=flat-square&logo=valorant&logoColor=white)
+  ![Badge snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=plastic&logo=snapchat&logoColor=white)
+  
+</div>
+
+
 
 ## Índice
 - [Descrição](#-descricao)
