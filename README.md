@@ -71,7 +71,7 @@ Agradecemos seu apoio e esperamos tornar nosso produto ainda melhor com a sua aj
 
 ## Licença
 <!-- Informações sobre a licença do projeto (permissões que as outras pessoas tem sobre o projeto) -->
-[MIT](https://github.com/Thaiscangucu/DocC_101/blob/main/LICENSE)
+[MIT](https://github.com/Thaiscangucu/DocC_101/blob/main/LICENSE) © Thais Canguçu
 
 ## Autores
 <!-- Créditos aos desenvolvedores e colaboradores. -->
