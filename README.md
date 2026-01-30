@@ -75,3 +75,7 @@ Agradecemos seu apoio e esperamos tornar nosso produto ainda melhor com a sua aj
 
 ## Autores
 <!-- Créditos aos desenvolvedores e colaboradores. -->
+<a href="https://github.com/Thaiscangucu"><img src="https://github.com/user-attachments/assets/9d6c9931-8d09-49bc-936d-8ddfdf33a67e" height=100></a>
+<a href="https://github.com/carolssun"><img src="https://github.com/user-attachments/assets/ecd7b932-ff07-46c7-87aa-339f94c17683" height=100></a>
+<a href="https://github.com/cparolin"><img src="https://github.com/user-attachments/assets/8e1492cc-db42-419a-a9a6-cab55ef112eb" height=100></a>
+<a href="https://github.com/Anshushu000"><img src="https://github.com/user-attachments/assets/64da9061-b2bb-4b75-883a-8895e8c0b1eb" height=100></a>
